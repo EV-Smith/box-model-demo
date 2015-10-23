@@ -1,26 +1,14 @@
-h1 { color: hsla(285, 100%, 75%, 0.9); }
-
-h1:hover { color: hsla(285, 30%, 75%, 0.9); }
-
-a { color: hsla(285, 30%, 75%, 0.9); }
-
-a:visited { text-decoration: none; }
-
-header {
-  width: 95%;
-  margin: auto;
+header img {
+  width: 33%;
 }
 
-article {
-  width: 90%;
-  margin: auto;
+a {
+  text-decoration: none;
 }
 
-p::first-letter {
-  font-size: 1.5em;
+nav a {
+  text-decoration: line-through;
 }
 
-footer {
-  border: 2px solid magenta;
-  border-radius: 5px;
-}
+p { color: orange; }
+p { color: magenta }
